@@ -1,0 +1,16 @@
+Summarizing Contracts
+For this assessment, you will copy and paste three contracts to your GitHub and summarize the three contracts, including one easy, one intermediate, and one hard. You can choose the contracts to summarize from the table below.
+
+Based on your experience and knowledge from this course, walk through the code in a selfie video. In this video, you will highlight key parts of the code.
+
+Explain:
+
+What is happening
+What the names of the elements in the code are based on what we've learned in this course
+Why you are getting the output you are getting
+
+Contracts Table
+Easy Choose one of the following easy contracts. Copy it to your GitHub and create a walk-through video of the contract.
+
+Hello World: https://solidity-by-example.org/hello-world
+Simple Storage: https://gist.github.com/naterush/79b585a5cdd9537fc0af95b75458b87d
